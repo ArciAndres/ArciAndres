@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **AI, Robotics, Perception, Computer Vision, Machine Translation, Web development.**
 
-- 📫 Reach me at **arciandres@gmail.com**
-
 - ⚡ Fun fact: **I own and ride a backwards bicycle 😄🚴**
 
 <h3 align="left">Connect with me:</h3>
