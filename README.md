@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArciAndres)](https://github.com/anuraghazra/github-readme-stats)
+
+![image](https://github.com/ArciAndres/ArciAndres/assets/23021023/d50e83e1-7d8c-4f98-ad07-c05bd3d721d3)
+
 <!--
 **ArciAndres/ArciAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
