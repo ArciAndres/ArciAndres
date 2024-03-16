@@ -1,25 +1,22 @@
 
 <h1 align="center">Hi 👋, I'm Andrés!</h1>
 <h3 align="center">A multi-skilled electronics software engineer from Colombia</h3>
-<p align="right" width="100px">
-  <img src="assets/image.png" />
-</p>
+<img align="right" src="assets/image.png" alt="AndresCoffee" width="500" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arciandres&label=Profile%20views&color=0e75b6&style=flat" alt="arciandres" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arciandres" alt="arciandres" /></a> </p>
-
 - 🔭 I’m currently working on **"Drones For Autonomy" Project**
 
-- 🌱 I’m currently learning **LLMs, Generative AI, DevOps, Distributed Multi-Agent Systems**
+- 🌱 I’m currently learning **LLMs, Generative AI, DevOps, Distributed Multi-Agent Systems.**
 
-- 👯 I’m looking to collaborate on **Robotics, EdTech and Machine Translation projects**
+- 👯 I’m looking to collaborate on **Robotics, AI, EdTech and Machine Translation projects**
 
-- 💬 Ask me about **Robotics, Perception, Computer Vision, Machine Translation, Web development**
+- 💬 Ask me about **AI, Robotics, Perception, Computer Vision, Machine Translation, Web development.**
 
-- 📫 How to reach me **arciandres@gmail.com**
+- 📫 Reach me at **arciandres@gmail.com**
 
-- ⚡ Fun fact **I own and ride a backwards cycicle (google it ;) )**
+- ⚡ Fun fact: **I own and ride a backwards bicycle 😄🚴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arciandres&" alt="arciandres" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arciandres" alt="arciandres" /></a> </p>
 
 <!--
 **ArciAndres/ArciAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
