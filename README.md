@@ -97,10 +97,10 @@
 <a href="https://www.autodesk.it/products/inventor/overview"><img src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/1_autodesk-inventor-professional-product-icon-128@2x.png" width="60" height="60" style="margin: -6px;">
 </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a>
-<a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg" alt="unreal" width="50" height="50"/> </a>
+<a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/394536/unreal-engine.svg" alt="unreal" width="50" height="50"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 
-### Some stats
+## Some stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arciandres&show_icons=true&locale=en&layout=compact" alt="arciandres" /></p>
 
@@ -109,18 +109,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arciandres&" alt="arciandres" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arciandres" alt="arciandres" /></a> </p>
-
-<!--
-**ArciAndres/ArciAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
